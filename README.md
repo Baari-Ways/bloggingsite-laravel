@@ -1,7 +1,7 @@
 # bloggingsite-laravel
 A simple blogging site with multiple features. Created with the help of laravel.
 
-    <h3>Checkout this Youtube link to see how this website works: <a target="_blank" href="https://youtu.be/sK1_79e5gNo">Youtube ink</a></h3>
+<h3>Checkout this Youtube link to see how this website works: <a target="_blank" href="https://youtu.be/sK1_79e5gNo">Youtube ink</a></h3>
   
   <br>
 
@@ -48,6 +48,9 @@ A simple blogging site with multiple features. Created with the help of laravel.
   <p>Start Apache and Mysql from Xampp Control Panel and go to the below mentioned link:</p>
   <p>http://localhost/phpmyadmin/</p>
   <p>Create new Database and name it lsapp</p>
-  <p>In lsapp database you have to click on import tab and add the sql file from our sql_folder that you have downloaded from our repository earlier, process as shown in the image:</p>
-  <p></p>
-  <img src="https://ibb.co/7QwkXtx" alt="">
+  <p>In lsapp database you have to click on import tab, and click on choose file. Here you have to select the sql file named as (lsapp.sql) from our sql_folder that you have downloaded from our repository earlier.</p>
+  <p>Reload the page, and now you will have a Database of Blogging Website</p>
+
+  <p>Be sure to use the -----    http://   ---- before lsapp.me not --- the https://  ---</p>
+  <p>Visit this link to view the website:</p>
+  <p>http://lsapp.me</p>
