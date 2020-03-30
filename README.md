@@ -2,7 +2,7 @@
 A simple blogging site with multiple features. Created with the help of laravel.
 
   
- 
+
   <h3>Checkout this Youtube link to see how this website works: <a target="_blank" href="https://youtu.be/sK1_79e5gNo">Youtube ink</a></h3>
   
   <br>
@@ -20,20 +20,21 @@ A simple blogging site with multiple features. Created with the help of laravel.
   <p>Here you will find a file name: <strong> httpd-vhosts.conf </strong>. Open it with any type of editor.</p>
   <p>Copy this code and paste it at the very end of the file:</p>
  
-  <xmp>
-   
-    <VirtualHost *:80>
-      DocumentRoot "C:/xampp/htdocs"
-      ServerName localhost
-    </VirtualHost>
+  <pre>
+    <code>
+      <VirtualHost *:80>
+        DocumentRoot "C:/xampp/htdocs"
+        ServerName localhost
+      </VirtualHost>
 
 
-    <VirtualHost *:80>
-      DocumentRoot "C:/xampp/htdocs/lsapp/public"
-      ServerName lsapp.me
-    </VirtualHost>
+      <VirtualHost *:80>
+        DocumentRoot "C:/xampp/htdocs/lsapp/public"
+        ServerName lsapp.me
+      </VirtualHost>
 
-  </xmp>
+    </code>
+  </pre>
 
     
   
