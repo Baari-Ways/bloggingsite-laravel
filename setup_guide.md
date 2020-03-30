@@ -16,7 +16,7 @@ A simple blogging site with multiple features. Created with the help of laravel.
   <p>Now go the the below mentioned location in Xammp Folder:</p>
   <p>C:\xampp\apache\conf\extra</p>
   <p>Here you will find a file name: <strong> httpd-vhosts.conf </strong>. Open it with any type of editor.</p>
-  <p>Copy this code and paste it at the very end of the file and the save the file:</p>
+  <p>Copy this code and paste it at the very end of the file and then save the file:</p>
  
 
       <VirtualHost *:80>
@@ -33,10 +33,10 @@ A simple blogging site with multiple features. Created with the help of laravel.
 
     
   
-  <h3>Now open Notepad as an <strong>Administator</strong></h3>
-  <p>From notepad. Go to the below mentioned link:</p>
+  <h3>Now open Notepad as an <strong>Administrator</strong>. It is important that you must run notepad as an administrator.</h3>
+  <p>From notepad, Go to the below mentioned link:</p>
   <h3>C:\Windows\System32\drivers\etc</h3>
-  <p>Here you will find a file name: <strong> hosts.txt </strong>. Open it.</p>
+  <p>Here you will find a file name: <strong> hosts.txt</strong>. Open it.</p>
   <p>Paste the below mentioned text, right before this line -> <strong>## Local by Flywheel - Start ##</strong> and then save the file.
   </p>
   <p>
