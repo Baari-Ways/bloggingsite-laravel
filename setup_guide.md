@@ -7,7 +7,7 @@ A simple blogging site with multiple features. Created with the help of laravel.
 
   <h1>Complete guide on how to use this project</h1>
   <h3>Step 1: Initial Setup</h3>
-  <p>Download this repository. It containes two folder, lsapp and _sql.</p>
+  <p>Download this repository. It containes two folder, lsapp and sql_folder.</p>
   <p>You must have Xampp installed in your pc or mac for using this project. In our computer, Xampp is installed in <strong>C</strong> Drive </p>
   <p>Go to your Xampp folder there exist a folder name htdocs. In our computer. The location of htdocs is <strong> C:\xampp\htdocs.</strong></p>
   <p>Paste the folder name lsapp that you have downloaded earlier from our repository in htdocs folder.</p>
