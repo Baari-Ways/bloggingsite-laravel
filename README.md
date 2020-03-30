@@ -20,8 +20,8 @@ A simple blogging site with multiple features. Created with the help of laravel.
   <p>Here you will find a file name: <strong> httpd-vhosts.conf </strong>. Open it with any type of editor.</p>
   <p>Copy this code and paste it at the very end of the file:</p>
  
-  <pre>
-    <code>
+  <textarea disabled>
+    
       <VirtualHost *:80>
         DocumentRoot "C:/xampp/htdocs"
         ServerName localhost
@@ -33,8 +33,7 @@ A simple blogging site with multiple features. Created with the help of laravel.
         ServerName lsapp.me
       </VirtualHost>
 
-    </code>
-  </pre>
+  </textarea>
 
     
   
